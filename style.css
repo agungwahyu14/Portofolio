@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #f3f4f5;
+}
+
+section {
+    margin-bottom: 4rem;
+}
+
+#project {
+    background-color: #f3f4f5;
+}
